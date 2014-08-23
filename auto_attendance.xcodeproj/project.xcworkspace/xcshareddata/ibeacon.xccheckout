@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>32FCF5B1-F958-47E3-8686-0B37F56D2FA2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9D849A1B147FBC1C21093B2B33ECD41FD4FD361</key>
+		<string>github.com:jumbo-in-Jap/iBeacon-Okaeri-ittekimasu.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9D849A1B147FBC1C21093B2B33ECD41FD4FD361</key>
+		<string>iBeacon-Okaeri-ittekimasu/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jumbo-in-Jap/iBeacon-Okaeri-ittekimasu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9D849A1B147FBC1C21093B2B33ECD41FD4FD361</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9D849A1B147FBC1C21093B2B33ECD41FD4FD361</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iBeacon-Okaeri-ittekimasu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
